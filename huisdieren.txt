@@ -3,3 +3,5 @@ Gata
 Sneezy
 Idris
 Wolfie
+Gato
+Gizmo
